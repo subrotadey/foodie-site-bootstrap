@@ -2,3 +2,20 @@
     background-image: #3a4046;
     color: white;
 }
+.placeholder-bg-btn{
+    background-image:linear-gradient(180deg, #4e494c -0.01%, #9c999a 99.99%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.slide-bg-btn{
+    background-image:linear-gradient(180deg, #2323f5 -0.01%, #7929fa 99.99%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.slide-text{
+    color: black;
+}
