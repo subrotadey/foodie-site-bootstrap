@@ -1,3 +1,8 @@
+body::before {
+    display: block;
+    content: "";
+    height: 56px;
+  }
 .nav-bar-bg{
     background-image: #3a4046;
     color: white;
